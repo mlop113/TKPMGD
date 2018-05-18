@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JMF2.1.1e/lib/customizer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JMF2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JMF2.1.1e/lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JMF2.1.1e/lib/multiplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JMF2.1.1e/lib/sound.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JayNgocJay/Desktop/New folder/vlcj-3.0.1-dist/vlcj-3.0.1/vlcj-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
